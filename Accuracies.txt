@@ -1,0 +1,14 @@
+MED-2019
+Open Accuracy: 0.7884403669724771
+Closed Accuracy: 0.85
+Overall Accuracy: 0.809
+
+RAD Dataset
+Open Accuracy: 0.7676543209876543
+Closed Accuracy: 0.7811111111111112
+Overall Accuracy: 0.7566666666666666
+
+SLAKE English Dataset
+Open Accuracy: 0.7782945736434108
+Closed Accuracy: 0.8581730769230769
+Overall Accuracy: 0.8096135721017907
